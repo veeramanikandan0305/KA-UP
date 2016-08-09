@@ -1,0 +1,9 @@
+
+syntax : source_url,destination_url,day/totaldays
+
+1/1 wwill take backup on every backup everyday
+1/7 will take backup on every first day of week
+1/30 will take backup on every first day of month
+
+
+EX : /var/www/html/Date,/var/www/html/,4/7
